@@ -1,0 +1,7 @@
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\bin\Debug\EscrituraArchivo.exe.config
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\bin\Debug\EscrituraArchivo.exe
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\bin\Debug\EscrituraArchivo.pdb
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\obj\Debug\EscrituraArchivo.csproj.AssemblyReference.cache
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\obj\Debug\EscrituraArchivo.csproj.CoreCompileInputs.cache
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\obj\Debug\EscrituraArchivo.exe
+C:\Users\suare\Documents\GitHub\EscrituraArchivo\EscrituraArchivo\obj\Debug\EscrituraArchivo.pdb
