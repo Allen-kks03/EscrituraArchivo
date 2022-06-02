@@ -47,20 +47,22 @@ namespace EscrituraArchivo
             //Creacion de un objeto
             Clientes C1 = new Clientes(Nombre, Apellido, ID);
 
-            //Es el texto que se escribira despues del texto que ya esta en el archivo
             string[] Lines ={
-               "Nombre: "+C1.Nombre
-               ,"Apellido: "+C1.Apellido
-               ,"ID: "+C1.ID.ToString()
+               C1.Nombre
+               ,C1.Apellido
+               ,C1.ID.ToString()
                ,"\n"
             };
 
             //Se escribe en el archivo
             foreach (string Line in Lines)
             {
+                sw.WriteLine("Nombre: " + C1.Nombre);
+                sw.WriteLine("Apellido: " + C1.Apellido);
+                sw.WriteLine("ID: " + C1.ID);
                 sw.WriteLine(Line);
             }
-            sw.Close();//se debe cerrare el archivo
+            sw.Close();//se debe cerrar el archivo
 
             Console.WriteLine("Escrbiendo en el archivo.....");
             Console.ReadLine();
